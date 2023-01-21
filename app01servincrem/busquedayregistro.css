@@ -1,0 +1,26 @@
+body {
+    background-image: url("Hexagon\ \(1\).svg");
+  }
+
+  .principal{ color: aliceblue;
+    font-family: 'Trebuchet MS', sans-serif;
+  }
+  
+    .container{
+        width: 50px;
+        margin: auto;
+        width: 50%;
+        padding: 300px;
+        color: #FFFFFF;
+        font-size: 100px;
+        }
+
+        .btn {
+            box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 20px 10px 0 rgba(0,0,0,0.19);
+            font-size: 20px;
+            padding: 14px 40px;
+            background-color: #d9e5fb
+          }
+          a:link {
+            text-decoration: none;
+          }

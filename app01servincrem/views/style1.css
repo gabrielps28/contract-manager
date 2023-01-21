@@ -1,0 +1,25 @@
+
+.titulo{ color: black;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+.principal{ color: aliceblue;
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+.container{
+
+  font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+    border-radius:.450rem;
+    background: rgba(240, 238, 238, 0.976);
+    box-shadow: 0 0 20px 0 rgba(35, 45, 161, 0.861), 0 4px 5px 0 rgba(98, 147, 154, 0.958);
+    margin: auto;
+  
+   
+}
+
+body{
+
+  background-image: url("../Hexagon\ \(1\).svg");
+ }
+
